@@ -9,5 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Married with children
 
-[![status](https://badge.stateful.com/maysam/status.svg)](Status for @maysam)
-[![status](https://badge.stateful.com/maysam/dnd.svg)](DnD for @maysam)
+![status](https://badge.stateful.com/maysam/dnd.svg)
+
+![status](https://badge.stateful.com/maysam/status.svg)
