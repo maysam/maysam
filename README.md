@@ -8,3 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/maysam/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Married with children
+
+[![status](https://badge.stateful.com/maysam/status.svg)](Status for @maysam)
+[![status](https://badge.stateful.com/maysam/dnd.svg)](DnD for @maysam)
