@@ -12,3 +12,5 @@
 ![status](https://badge.stateful.com/maysam/dnd.svg)
 
 ![status](https://badge.stateful.com/maysam/status.svg)
+
+[![wakatime](https://wakatime.com/badge/user/634e7468-9411-44e8-80d9-636207e44c53.svg)](https://wakatime.com/@634e7468-9411-44e8-80d9-636207e44c53)
